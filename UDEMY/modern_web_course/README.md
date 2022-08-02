@@ -1,0 +1,5 @@
+# modern_web_course
+JS, HTML, CSS, NODE, REACT, AJAX, GULP, WEBPACK, JQUERY, BOOTSTRAP, VUEJS, ANGULAR9, RELATIONAL-DB, NO-RELATIONAL-DB.
+
+Exercises and projects
+
