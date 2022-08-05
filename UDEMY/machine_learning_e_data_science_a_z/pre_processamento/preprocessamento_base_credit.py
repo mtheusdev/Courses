@@ -164,4 +164,23 @@ X_credit[:, 0].max(), X_credit[:, 1].max(), X_credit[:, 2].max()
 # %%
 X_credit
 
+# %%
+from sklearn.model_selection import train_test_split
+
+# %%
+X_credit_treinamento, X_credit_teste, Y_credit_treinamento, Y_credit_teste = train_test_split(X_credit, Y_credit, test_size=0.25, random_state=0)
+
+# %%
+X_credit_treinamento.shape, Y_credit_treinamento.shape
+
+# %%
+X_credit_teste.shape, Y_credit_teste.shape
+
+# %%
+import pickle
+
+# %%
+with open('credit.pkl', mode="wb") as f:
+    pickle.dump([X_credit_treinamento, Y_credit_treinamento, X_credit_teste, Y_credit_teste], f)
+
 
