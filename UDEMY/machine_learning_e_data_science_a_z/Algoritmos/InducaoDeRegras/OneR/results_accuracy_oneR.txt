@@ -1,0 +1,2 @@
+credit = 96.6%
+census = 78.8% (Nao usou a base inteira, algoritmo lento, feito na interface gráfica)
