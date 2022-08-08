@@ -1,0 +1,2 @@
+credit = 98.8% -> Kernel: 'rbf' , C = 2.0
+census = 85% -> Kernel: 'rbf' , C = 2.0
