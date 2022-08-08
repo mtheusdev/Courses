@@ -1,0 +1,2 @@
+credit = 94%
+census = 84.9%
