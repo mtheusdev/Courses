@@ -1,0 +1,15 @@
+Before Grid Search (base_credit):
+    Decision Trees: 98.2%
+    Random Forest: 98.4%
+    KNN: 98.6%
+    Logistic Regression: 94.6%
+    SVM: 98.8%
+    ANN: 99.8%
+
+After Grid Search (base_credit):
+    Decision Trees: 98.3%
+    Random Forest: 98.65%
+    KNN: 98%
+    Logistic Regression: 94.84%
+    SVM: 98.2%
+    ANN: 99.64%
